@@ -1,0 +1,7 @@
+---
+# defaults file for test_module_role
+path: "/tmp/my_own_role_test.txt"
+
+content: |
+  Hello
+  World!
