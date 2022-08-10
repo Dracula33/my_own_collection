@@ -2,4 +2,4 @@
 - name: Test module
   hosts: localhost
   roles:
-    - test_module_role
+    - dracula33.my_own_collection.test_module_role
